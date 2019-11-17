@@ -1,0 +1,31 @@
+<！DOCTYPE html>
+<html>
+
+<head>
+  <meta charset = "utf-8" />
+  <title> HTML 5完成</ title>
+  <！-[if IE]>
+<script src = "http://html5shiv.googlecode.com/svn/trunk/html5.js"> </ script>
+
+<！[endif]->
+  <スタイル>
+    論文、
+    さておき、
+    ダイアログ、
+    図、
+    フッター、
+    ヘッダ、
+    hgroup、
+    メニュー、
+    nav、
+    セクション {
+      表示ブロック;
+    }
+  </ style>
+</ head>
+
+<本体>
+  <p> Hello World </ p>
+</ body>
+
+</ html>
